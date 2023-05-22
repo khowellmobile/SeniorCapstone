@@ -1,1 +1,1 @@
-![Reconciliation Page Preview](../images/reconciliation.png)
+![Reconciliation Page Preview](../../images/reconciliation.png)
