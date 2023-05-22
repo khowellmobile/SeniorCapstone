@@ -15,15 +15,15 @@ Php is used to connect the front and back end together. Each php script either p
 
 Scribe is a web application made to simplify after-the-fact bookeeping. Functionalities include
 
-- **User account creation and log in**
-- **Client creation and selection**
-- **Transaction input and deletion**
-- **Transcation reconciliation**
+- **[User account creation](src/createAccount) and [log in](src/login)**
+- **[Client creation and selection](src/clients)**
+- **[Transaction input and deletion](src/statementInput)**
+- **[Transcation reconciliation](src/reconciliation)**
     - Reconciliation is a check to ensure proper input of transactions
-- **Account Adjustment**
+- **[Account Adjustment](src/accountAdjustment)**
     - Directly changing the balance of financial accounts
-- **Report Generation**
-- **Transaction Register**
+- **[Report Generation](src/reports)**
+- **[Transaction Register](src/clientRegister)**
 
 
 
