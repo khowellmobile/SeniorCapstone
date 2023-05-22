@@ -12,6 +12,10 @@ Scribe is a web application made to simplify after-the-fact bookeeping. Function
 - **[Report Generation](src/reports)**
 - **[Transaction Register](src/clientRegister)**
 
+## Video Presentation
+- Click [here](https://youtu.be/m7pOPGt16yo) for full video presentation (16 min)
+- Click [here](https://youtu.be/m7pOPGt16yo?t=354) to jump to the demo section of the video (4 min)
+
 # Built with
 - Scribe uses html, css, and javascript to handle the front end functionality
 - Php is used to wrap html files and facilitate communication between front and back end
