@@ -16,7 +16,7 @@ Scribe is a web application made to simplify after-the-fact bookeeping. Function
 - Click [here](https://youtu.be/m7pOPGt16yo) for full video presentation (16 min)
 - Click [here](https://youtu.be/m7pOPGt16yo?t=354) to jump to the demo section of the video (4 min)
 
-# Built with
+## Built with
 - Scribe uses html, css, and javascript to handle the front end functionality
 - Php is used to wrap html files and facilitate communication between front and back end
 - The database is built using MySql and PhpMyAdmin
@@ -25,7 +25,7 @@ Scribe is a web application made to simplify after-the-fact bookeeping. Function
     - [BootStrap](https://getbootstrap.com)
     - [DataTables.net](https://datatables.net)
 
-# Authors
+## Authors
 
 Kent Howell - khowellmobile@gmail.com <br>
 Emma Orazen - orazenec@miamioh.edu <br>
